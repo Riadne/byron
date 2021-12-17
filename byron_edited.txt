@@ -54,7 +54,7 @@
     54	
     55	   Such is thy name with this my verse entwined;
     56	   And long as kinder eyes a look shall cast
-    57	   On Harold's page, Ianthe's here enshrined
+    57	   On Ivan's page, Ianthe's here enshrined
     58	   Shall thus be first beheld, forgotten last:
     59	   My days once numbered, should this homage past
     60	   Attract thy fairy fingers near the lyre
@@ -95,7 +95,7 @@
     95	
     96	III.
     97	
-    98	   Childe Harold was he hight:--but whence his name
+    98	   Childe Ivan was he hight:--but whence his name
     99	   And lineage long, it suits me not to say;
    100	   Suffice it, that perchance they were of fame,
    101	   And had been glorious in another day:
@@ -107,7 +107,7 @@
    107	
    108	IV.
    109	
-   110	   Childe Harold basked him in the noontide sun,
+   110	   Childe Ivan basked him in the noontide sun,
    111	   Disporting there like any other fly,
    112	   Nor deemed before his little day was done
    113	   One blast might chill him into misery.
@@ -131,7 +131,7 @@
    131	
    132	VI.
    133	
-   134	   And now Childe Harold was sore sick at heart,
+   134	   And now Childe Ivan was sore sick at heart,
    135	   And from his fellow bacchanals would flee;
    136	   'Tis said, at times the sullen tear would start,
    137	   But pride congealed the drop within his e'e:
@@ -156,7 +156,7 @@
    156	VIII.
    157	
    158	   Yet ofttimes in his maddest mirthful mood,
-   159	   Strange pangs would flash along Childe Harold's brow,
+   159	   Strange pangs would flash along Childe Ivan's brow,
    160	   As if the memory of some deadly feud
    161	   Or disappointed passion lurked below:
    162	   But this none knew, nor haply cared to know;
@@ -179,7 +179,7 @@
    179	
    180	X.
    181	
-   182	   Childe Harold had a mother--not forgot,
+   182	   Childe Ivan had a mother--not forgot,
    183	   Though parting from that mother he did shun;
    184	   A sister whom he loved, but saw her not
    185	   Before his weary pilgrimage begun:
@@ -512,7 +512,7 @@
    512	   O'er vales that teem with fruits, romantic hills,
    513	   (Oh that such hills upheld a free-born race!)
    514	   Whereon to gaze the eye with joyaunce fills,
-   515	   Childe Harold wends through many a pleasant place.
+   515	   Childe Ivan wends through many a pleasant place.
    516	   Though sluggards deem it but a foolish chase,
    517	   And marvel men should quit their easy chair,
    518	   The toilsome way, and long, long league to trace.
@@ -689,7 +689,7 @@
    689	
    690	XLV.
    691	
-   692	   Full swiftly Harold wends his lonely way
+   692	   Full swiftly Ivan wends his lonely way
    693	   Where proud Sevilla triumphs unsubdued:
    694	   Yet is she free--the spoiler's wished-for prey!
    695	   Soon, soon shall Conquest's fiery foot intrude,
@@ -1114,7 +1114,7 @@
   2114	
   2115	LXVI.
   2116	
-  2117	   Childe Harold saw them in their chieftain's tower,
+  2117	   Childe Ivan saw them in their chieftain's tower,
   2118	   Thronging to war in splendour and success;
   2119	   And after viewed them, when, within their power,
   2120	   Himself awhile the victim of distress;
@@ -1168,7 +1168,7 @@
   2168	   Nodding at midnight o'er the calm bay's breast,
   2169	   As winds come whispering lightly from the west,
   2170	   Kissing, not ruffling, the blue deep's serene:
-  2171	   Here Harold was received a welcome guest;
+  2171	   Here Ivan was received a welcome guest;
   2172	   Nor did he pass unmoved the gentle scene,
   2173	For many a joy could he from night's soft presence glean.
   2174	
@@ -1186,7 +1186,7 @@
   2186	
   2187	LXXII.
   2188	
-  2189	   Childe Harold at a little distance stood,
+  2189	   Childe Ivan at a little distance stood,
   2190	   And viewed, but not displeased, the revelrie,
   2191	   Nor hated harmless mirth, however rude:
   2192	   In sooth, it was no vulgar sight to see
@@ -1660,7 +1660,7 @@
   2660	
   2661	   Something too much of this:  but now 'tis past,
   2662	   And the spell closes with its silent seal.
-  2663	   Long-absent Harold reappears at last;
+  2663	   Long-absent Ivan reappears at last;
   2664	   He of the breast which fain no more would feel,
   2665	   Wrung with the wounds which kill not, but ne'er heal;
   2666	   Yet Time, who changes all, had altered him
@@ -1700,7 +1700,7 @@
   2700	   Nor feel the heart can never all grow old?
   2701	   Who can contemplate fame through clouds unfold
   2702	   The star which rises o'er her steep, nor climb?
-  2703	   Harold, once more within the vortex rolled
+  2703	   Ivan, once more within the vortex rolled
   2704	   On with the giddy circle, chasing Time,
   2705	Yet with a nobler aim than in his youth's fond prime.
   2706	
@@ -1754,7 +1754,7 @@
   2754	
   2755	XVI.
   2756	
-  2757	   Self-exiled Harold wanders forth again,
+  2757	   Self-exiled Ivan wanders forth again,
   2758	   With naught of hope left, but with less of gloom;
   2759	   The very knowledge that he lived in vain,
   2760	   That all was over on this side the tomb,
@@ -1778,7 +1778,7 @@
   2778	
   2779	XVIII.
   2780	
-  2781	   And Harold stands upon this place of skulls,
+  2781	   And Ivan stands upon this place of skulls,
   2782	   The grave of France, the deadly Waterloo!
   2783	   How in an hour the power which gave annuls
   2784	   Its gifts, transferring fame as fleeting too!
@@ -2118,7 +2118,7 @@
   3118	   Within its own creation, or in thine,
   3119	   Maternal Nature! for who teems like thee,
   3120	   Thus on the banks of thy majestic Rhine?
-  3121	   There Harold gazes on a work divine,
+  3121	   There Ivan gazes on a work divine,
   3122	   A blending of all beauties; streams and dells,
   3123	   Fruit, foliage, crag, wood, corn-field, mountain, vine,
   3124	   And chiefless castles breathing stern farewells
@@ -2186,7 +2186,7 @@
   3186	
   3187	LII.
   3188	
-  3189	   Thus Harold inly said, and passed along,
+  3189	   Thus Ivan inly said, and passed along,
   3190	   Yet not insensible to all which here
   3191	   Awoke the jocund birds to early song
   3192	   In glens which might have made e'en exile dear:
