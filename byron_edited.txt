@@ -5275,3 +5275,11 @@
   6275	
   6276	Footnotes:
   6277	{1}  Lady Charlotte Harley, daughter of the Earl of Oxford.
+
+     5	List of Contents
+     6	
+     7	   To Ianthe
+     8	   Canto the First
+     9	   Canto the Second
+    10	   Canto the Third
+    11	   Canto the Fourth
